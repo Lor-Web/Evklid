@@ -6,6 +6,7 @@ layout
 <ul><h1>Использовал:</h1>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Pixel Perfect</li>
   <li>JavaScript</li>
   <li>JQuery</li>
 </ul>
